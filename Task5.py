@@ -38,7 +38,7 @@ def f(x):
 
 
 x0 = 1
-x1 = 3
+x1 = 15
 
 
 root, errors_abs = false_position_method(f, x0, x1)
